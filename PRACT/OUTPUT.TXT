@@ -1,0 +1,459 @@
+Program Outputs
+===============
+
+Output 1
+
+Enter the 1st number: 17
+Enter the 2nd number: 25
+Enter the 3rd number: 13
+
+Sum of the three numbers = 55
+Product of the three numbers = 5525
+Average of the three numbers = 18.333334
+Smallest of the three numbers = 13
+Largest of the three numbers = 25
+
+Enter the 1st number: 32
+Enter the 2nd number: 5
+Enter the 3rd number: 84
+
+Sum of the three numbers = 121
+Product of the three numbers = 13440
+Average of the three numbers = 40.333332
+Smallest of the three numbers = 5
+Largest of the three numbers = 84
+
+Output 3
+
+No: of no:s 5
+56
+32
+12
+5
+98
+QuickSorted list
+
+5       12      32      56      98
+
+Output 4
+
+No: of no:s 5
+56
+32
+12
+5
+98
+HeapSorted list
+
+5       12      32      56      98
+
+Output 5
+
+How many names ? 8
+Name 1 : Mohan
+Name 2 : Renjith
+Name 3 : John
+Name 4 : Kiran
+Name 5 : Mac
+Name 6 : Joey
+Name 7 : Rohit
+Name 8 : Amanda
+Name to be searched ? Mac
+Amanda  Joey    John    Kiran   Mac     Mohan   Renjith Rohit
+Binary Search : Name exists at position 5
+Linear Search : Name exists at position 5
+
+Output 6
+
+Date 1 (DD/MM/YYYY format)
+DD : 5
+MM : 1
+YYYY : 1235
+
+Date 2 (DD/MM/YYYY format)
+DD : 6
+MM : 3
+YYYY : 3256
+
+No: of elapsed days = 738438
+
+Date 1 (DD/MM/YYYY format)
+DD : 15
+MM : 6
+YYYY : 1985
+
+Date 2 (DD/MM/YYYY format)
+DD : 23
+MM : 9
+YYYY : 2017
+
+No: of elapsed days = 11793
+
+Output 7
+
+Enter the Month : 5
+Enter the Year : 1984
+
+	Sun     Mon     Tue     Wed     Thu     Fri     Sat
+	อออออออออออออออออออออออออออออออออออออออออออออออออออ
+							1
+	2       3       4       5       6       7       8
+	9       10      11      12      13      14      15
+	16      17      18      19      20      21      22
+	23      24      25      26      27      28      29
+	30      31
+
+Enter the Month : 11
+Enter the Year : 1832
+
+	Sun     Mon     Tue     Wed     Thu     Fri     Sat
+	อออออออออออออออออออออออออออออออออออออออออออออออออออ
+				1       2       3       4
+	5       6       7       8       9       10      11
+	12      13      14      15      16      17      18
+	19      20      21      22      23      24      25
+	26      27      28      29      30
+
+Output 8
+
+Enter a number from 1 to 100 : 63
+Sixty three
+Enter a number from 1 to 100 : 95
+Ninety five
+Enter a number from 1 to 100 : 11
+Eleven
+
+Output 9
+
+Enter number 1 : 15
+Enter number 2 : 9
+Greatest Common Divisor (GCD) of 15 & 9 = 3
+
+Enter number 1 : 27
+Enter number 2 : 99
+Greatest Common Divisor (GCD) of 27 & 99 = 9
+
+Enter number 1 : 55
+Enter number 2 : 155
+Greatest Common Divisor (GCD) of 55 & 155 = 5
+
+Output 10
+
+Enter a sentence : mala ya la m
+Palindrome
+
+Enter a sentence : cl utt er
+Not Palindrome
+
+Output 11
+
+Sentence : malayalam is a language
+No: of Palindromes = 2
+
+Sentence : liril is a soap
+No: of Palindromes = 2
+
+Output 12
+
+Enter the string : aaa bb ccc ddd aaa ccc eee bb ccc dd
+aaa 2
+bb 2
+ccc 3
+dd 1
+ddd 1
+eee 1
+
+Output 13
+
+Enter a string : Elephant
+How many characters to left ? 3
+Left$("Elephant",3) = "Ele"
+How many characters to right ? 4
+Right$("Elephant",4) = "hant"
+Starting from position no: ? 2
+How many characters in middle ? 4
+Mid$("Elephant",2,4) = "leph"
+
+Output 14
+
+Enter a sentence : This is a sentence
+Character to be searched for ? i
+Starting from position number ? 4
+Position of the 1st occurrence of the character 'i'
+ starting from the 4th character position = 6
+Enter the string to be inserted : valid
+At position no: ? 11
+String after insertion : This is a valid sentence
+
+Output 15
+
+1 > Add    +
+2 > Delete X
+3 > Search ?
+4 > Total  N
+5 > View   ๐
+6 > Exit   ->
+Choice ? 1
+
+ID : 5F45G8
+Name : Mohan
+Designation : Manager
+Salary : 50000
+
+1 Employee record added....Hit any key to continue
+
+1 > Add    +
+2 > Delete X
+3 > Search ?
+4 > Total  N
+5 > View   ๐
+6 > Exit   ->
+Choice ? 5
+
+5F45G8  Mohan   Manager 50000
+TR9Y2P  Taj     Sales   2000
+65FGH8  Kiran   GM      60000
+100FG4  Jonh    MD      80000
+
+Output 16
+
+1 > Add    +
+2 > Delete X
+3 > Search ?
+4 > Total  N
+5 > View   ๐
+6 > Exit   ->
+Choice ? 1
+
+ID : 5F45G8
+Name : Mohan
+Designation : Manager
+Salary : 50000
+
+1 Employee record added....Hit any key to continue
+
+1 > Add    +
+2 > Delete X
+3 > Search ?
+4 > Total  N
+5 > View   ๐
+6 > Exit   ->
+Choice ? 5
+
+5F45G8  Mohan   Manager 50000
+TR9Y2P  Taj     Sales   2000
+65FGH8  Kiran   GM      60000
+100FG4  Jonh    MD      80000
+
+Output 17
+
+10      23      68      50
+Popped out : 50
+10      23      68
+Popped out : 68
+10      23
+
+Output 18
+
+ 1.Push
+ 2.Pop
+ 3.Clear
+ 4.Display
+ 5.Quit
+ Enter the choice : 1
+
+Enter nunmber : 45
+45 is pushed into the stack
+
+Enter nunmber : 60
+60 is pushed into the stack
+
+Enter nunmber : 12
+12 is pushed into the stack
+
+
+ 1.Push
+ 2.Pop
+ 3.Clear
+ 4.Display
+ 5.Quit
+ Enter the choice : 4
+ Elements present in the stack
+ 45
+ 60
+ 12
+
+Output 19
+
+Contents of WORDSTAR.TXT: (Input File)
+======================================
+These are characters in a file.
+These characters will be converted to ascii values.
+
+Contents of ASCII.TXT: (Output File)
+====================================
+84
+101
+101
+97
+101
+99
+97
+97
+116
+114
+32
+110
+97
+102
+108
+46
+84
+101
+101
+99
+97
+97
+116
+114
+32
+105
+108
+98
+32
+111
+118
+114
+101
+32
+111
+97
+99
+105
+118
+108
+101
+46
+
+Output 20
+
+Files of type (3 characters) ? txt
+Directory listing of *.txt
+  ASCII.TXT     195 bytes
+  WORDSTAR.TXT  86 bytes
+  LIST.TXT      195 bytes
+  FILE1.TXT     15 bytes
+  FILE2.TXT     12 bytes
+  IIBSCCSC.TXT  593 bytes
+
+Output 22
+
+No: of files ? 2
+File 1 : k:\bsc\ibscc\01cs147\pract\1.c
+File 2 : k:\bsc\ibscc\01cs147\pract\3.c
+/* Finds the sum, product, average, largest, smallest */
+main()
+{
+int a,b,c;
+int sum,product,smallest,largest;
+float average;
+printf("Enter the 1st number: ");
+scanf("%d",&a);
+printf("Enter the 2nd number: ");
+scanf("%d",&b);
+printf("Enter the 3rd number: ");
+scanf("%d",&c);
+sum=a+b+c;
+average=(float)sum/3;
+product=a*b*c;
+largest=a;
+if (b > a) largest=b;
+if (c > a || c > b) largest=c;
+smallest=a;
+if (b < a) smallest=b;
+if (c < a || c < b) smallest=c;
+printf("\nSum of the three numbers = %d\n",sum);
+printf("Product of the three numbers = %d\n",product);
+printf("Average of the three numbers = %f\n",average);
+printf("Smallest of the three numbers = %d\n",smallest);
+printf("Largest of the three numbers = %d\n",largest);
+}
+// Sorting using QuickSort method
+void quicksort(int[],int,int);
+main()
+{
+int n,i,a[100];
+printf("No: of no:s");
+scanf("%d",&n);
+for (i=0;i<n;i++)
+ scanf("%d",&a[i]);
+quicksort(a,1,n);
+printf("QuickSorted list\n");
+for (i=0;i<n;i++)
+ printf("%d\t",a[i]);
+}
+void quicksort(int a[],int m,int n)
+{
+int i,j,k;
+if (m<n)
+ {
+ i=m;j=n+1;k=a[m];
+ while(i<j)
+  {
+  do i++; while((a[i]<=k && i<=n));
+  do j--; while(a[j]>k);
+  if (i<j)
+   {int t=a[i];a[i]=a[j];a[j]=t;}
+  else
+   {
+   int t=a[m];a[m]=a[j];a[j]=t;
+   quicksort(a,m,j-1);
+   quicksort(a,j+1,n);
+   }
+  }
+ }
+}
+
+Output 23
+
+String 1:Destroyer
+String 2:Creator
+Destroyer is greater when compared to Creator
+
+Output 24
+
+Enter date in dd/mm/yyyy format : DD : 12
+MM : 5
+YYYY : 1985
+12th May, 1985
+
+Output 25
+
+This is a sentence
+xxx
+This is a word
+xxx
+Position 1 : Same
+Position 2 : Same                                                               
+Position 3 : Same                                                               
+Position 4 : Same
+Position 5 : Same                                                               
+Position 6 : Same                                                               
+Position 7 : Same                                                               
+Position 8 : Same                                                               
+Position 9 : Same                                                               
+Position 10 : Same                                                              
+Position 11 : Different                                                         
+Position 12 : Different                                                         
+Position 13 : Different                                                         
+Position 14 : Different                                                         
+Position 15 : Different                                                         
+Position 16 : Different                                                         
+Position 17 : Different                                                         
+Position 18 : Different                                                         
+Position 19 : Same                                                              
+Position 20 : Different
+Position 21 : Different                                                         
+Position 22 : Different
+Position 23 : Different
+Position 24 : Same

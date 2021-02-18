@@ -1,0 +1,2 @@
+These are characters in a file.
+These characters will be converted to ascii values.
